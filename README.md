@@ -67,3 +67,7 @@ This project does not include a formal testing suite. To test the functionality:
 -   **Error Handling:** Basic error handling is in place for API fetch requests, with errors logged to the console.
 -   **Reusable Components:** While not a framework-based application, the concept of a reusable "MovieCard" is implemented through dynamic HTML generation in JavaScript.
 -   **State Management:** State is managed implicitly through DOM manipulation and `localStorage`. For a larger application, a more robust state management solution would be considered.
+
+
+
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/67d69057-eba4-462a-ab75-8bad5b2e9932" />
