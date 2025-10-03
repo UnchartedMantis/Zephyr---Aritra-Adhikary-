@@ -69,4 +69,6 @@ This project does not include a formal testing suite. To test the functionality:
 -   **State Management:** State is managed implicitly through DOM manipulation and `localStorage`. For a larger application, a more robust state management solution would be considered.
 
 
+<img width="1896" height="865" alt="2" src="https://github.com/user-attachments/assets/a42eb735-53b6-4812-b2c6-3c95df11fea9" />
+<img width="1899" height="871" alt="1" src="https://github.com/user-attachments/assets/986d4d84-7645-426d-91e9-9b3e72b09988" />
 
